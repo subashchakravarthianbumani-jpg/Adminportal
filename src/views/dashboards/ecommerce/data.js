@@ -1,0 +1,138 @@
+
+const data=[
+  {
+      id:2,
+      firstname:'prem1',
+      lastname:'kumar',
+      registrationno:'12345',
+      InterestSector:'abc',
+      emailaddress:'prem@gmail.com',
+      phonenumber:'1234567890',
+      age:25,
+      state:'delhi',
+      district:'ncr'
+},
+{
+  id:3,
+  firstname:'Anand',
+  lastname:'kumar',
+  registrationno:'12345',
+  InterestSector:'agriculture',
+  emailaddress:'prem@gmail.com',
+  phonenumber:'1234567890',
+  age:25,
+  state:'delhi',
+  district:'ncr'
+},
+{
+  id:3,
+  firstname:'Gowtham',
+  lastname:'kumar',
+  registrationno:'12345',
+  InterestSector:'horticulture',
+  emailaddress:'prem@gmail.com',
+  phonenumber:'1234567890',
+  age:25,
+  state:'delhi',
+  district:'ncr'
+},
+{
+  id:4,
+  firstname:'Ela',
+  lastname:'kumar',
+  registrationno:'12345',
+  InterestSector:'buyer',
+  emailaddress:'ela@gmail.com',
+  phonenumber:'1234567850',
+  age:25,
+  state:'delhi',
+  district:'ncr'
+},
+{
+  id:5,
+  firstname:'logu',
+  lastname:'kumar',
+  registrationno:'125',
+  InterestSector:'abc',
+  emailaddress:'ela@gmail.com',
+  phonenumber:'1234567890',
+  age:25,
+  state:'delhi',
+  district:'sdsd'
+},
+{
+  id:6,
+  firstname:'Dinesh',
+  lastname:'kumar',
+  registrationno:'125',
+  InterestSector:'general public',
+  emailaddress:'dinesh@gmail.com',
+  phonenumber:'1234567890',
+  age:85,
+  state:'Tamil Nadu',
+  district:'ncr'
+},
+{
+  id:7,
+  firstname:'prem',
+  lastname:'kumar',
+  registrationno:'12345',
+  InterestSector:'buyers',
+  emailaddress:'prem@gmail.com',
+  phonenumber:'1234567890',
+  age:55,
+  state:'delhi',
+  district:'ncr'
+},
+{
+  id:8,
+  firstname:'prem',
+  lastname:'kumar',
+  registrationno:'12345',
+  InterestSector:'entrepreneur',
+  emailaddress:'prem@gmail.com',
+  phonenumber:'1234567890',
+  age:35,
+  state:'delhi',
+  district:'ncr'
+},
+{
+  id:9,
+  firstname:'prem',
+  lastname:'kumar',
+  registrationno:'12345',
+  InterestSector:'student',
+  emailaddress:'prem@gmail.com',
+  phonenumber:'1234567890',
+  age:35,
+  state:'Tamilnadu',
+  district:'Chennai'
+},
+{
+  id:10,
+  firstname:'prem',
+  lastname:'kumar',
+  registrationno:'12345',
+  InterestSector:'student',
+  emailaddress:'prem@gmail.com',
+  phonenumber:'1234567890',
+  age:15,
+  state:'Tamilnadu',
+  district:'ncr'
+},
+{
+  id:11,
+  firstname:'prem',
+  lastname:'kumar',
+  registrationno:'12345',
+  InterestSector:'others',
+  emailaddress:'prem@gmail.com',
+  phonenumber:'1234567890',
+  age:15,
+  state:'Tamilnadu',
+  district:'Chennai'
+},
+
+]
+
+export default data
